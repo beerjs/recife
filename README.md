@@ -1,6 +1,6 @@
 # Recife
 
-<img src="images/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
+<img src="/docs/images/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
 Bem vindos ao BeerJS/Recife.
 
@@ -14,13 +14,13 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 
 | Data e Horário | Local |  |
 |:-:|:-:|:-:|
-| A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](images/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+| A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/images/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
 
 ## Stikers
 Em breve disponibilizaremos stickers para download e compras!
 
 ## Redes Sociais
-[![Facebook](images/icon-facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](images/icon-slack.png)](https://beerjs-slack-invite.herokuapp.com/)
+[![Facebook](/docs/images/icon-facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](/docs/images/icon-slack.png)](https://beerjs-slack-invite.herokuapp.com/)
 
 <i>Slack: canal #recife</i>
 
