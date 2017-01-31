@@ -1,5 +1,6 @@
 # Recife
-BeerJS: Recife, Pernambuco - Brazil
+
+<img src="images/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
 Bem vindos ao BeerJS/Recife.
 
