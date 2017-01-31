@@ -11,11 +11,15 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 
 ## Próximos Eventos
 
+| Data e Horário | Local |  |
+|:-:|:-:|:-:|
+| A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](images/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+
 ## Stikers
+Em breve disponibilizaremos stickers para download e compras!
 
 ## Redes Sociais
 [![Facebook](images/icon-facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](images/icon-slack.png)](https://beerjs-slack-invite.herokuapp.com/)
-
 
 <i>Slack: canal #recife</i>
 
