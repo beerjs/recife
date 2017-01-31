@@ -14,7 +14,10 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 ## Stikers
 
 ## Redes Sociais
-[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](images/icon-slack.png?s=70)](https://beerjs-slack-invite.herokuapp.com/) (canal #recife)
+[![Facebook](images/icon-facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](images/icon-slack.png)](https://beerjs-slack-invite.herokuapp.com/)
+
+
+<i>Slack: canal #recife</i>
 
 ## Código de Conduta
 Acesse nosso código de conduta clicando [aqui](https://github.com/beerjs/recife/blob/master/Citizen%20Code%20of%20Conduct)
