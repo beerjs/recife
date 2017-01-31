@@ -16,7 +16,7 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 |:-:|:-:|:-:|
 | A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/images/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
 
-## Stikers
+## Stickers
 Em breve disponibilizaremos stickers para download e compras!
 
 ## Redes Sociais
