@@ -1,8 +1,8 @@
-# Recife https://beerjs.github.io/recife/
+# Recife 
 
 <img src="/docs/images/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
-Bem vindos ao BeerJS/Recife.
+Bem vindos ao BeerJS/Recife. https://beerjs.github.io/recife/
 
 A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mesmas paixões, isto é, cerveja e javascript (e não importa se você utiliza o js como linguagem principal ou auxiliar, se você é front-end ou back-end). Temos como objetivo, criar um espaço onde as pessoas possam compartilhar suas experiências sobre tecnologia, discutir tendências, frameworks, séries, mundo geek, (etc..) e ao mesmo tempo se divertir com boas músicas, bons papos e cerveja!
 
