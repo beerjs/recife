@@ -1,4 +1,4 @@
-# Recife
+# Recife https://beerjs.github.io/recife/
 
 <img src="/docs/images/icon-beerjs.png" align="left" hspace="10" vspace="6" width="20%">
 
