@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt" ng-app="app">
+
+<head>
+    <!--Import Google Icon Font-->
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+    <link type="text/css" rel="stylesheet" href="css/style.min.css" media="screen" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+
+<body ng-controller="mainCtrl">
+
+    <header ng-include="'tmpls/header.html'"></header>
+
+    <main>
+        <div ng-include="'tmpls/box-1.html'"></div>
+    </main>
+
+    <div ng-include="'tmpls/footer.html'"></div>
+
+    <!--Angular jS-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    <script type="text/javascript" src="js/angularjs/app.js"></script>
+    <script type="text/javascript" src="js/angularjs/controller.main.js"></script>
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <!--SketchJS Bubbles-->
+    <script type="text/javascript" src="http://rawgithub.com/soulwire/sketch.js/master/js/sketch.min.js"></script>
+    <script type="text/javascript" src="js/bubbles.js"></script>
+</body>
+
+</html>
