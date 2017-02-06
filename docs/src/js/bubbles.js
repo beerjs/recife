@@ -32,7 +32,7 @@ Particle.prototype = {
             this.radius = this.baseRadius;
         }
         this.vx += (random(100) - 50) / 1000;
-        this.vy -= random(1, 20) / 10000;
+        this.vy -= random(1, 5) / 10000;
         this.x += this.vx;
         this.y += this.vy;
         if (this.x < -this.maxRadius || this.x > sketch.width + this.maxRadius || this.y < -this.maxRadius) {

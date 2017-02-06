@@ -1,13 +1,6 @@
 $bg-beer-js: #F9E034;
 body {
     background-color: $bg-beer-js;
-    display: flex;
-    min-height: 100vh;
-    flex-direction: column;
-}
-
-main {
-    flex: 1 0 auto;
 }
 
 //Canvas Buubles
@@ -17,6 +10,7 @@ canvas.sketch {
     left: 0;
     top: 0;
     z-index: 0;
+    width: 100%;
 }
 
 .primary-layer {
@@ -25,6 +19,40 @@ canvas.sketch {
     &.primary-layer--no-position {
         position: initial;
     }
+}
+
+//GAPS
+$gap: 120px;
+.top-gap {
+    margin-top: $gap;
+}
+
+.bottom-gap {
+    margin-bottom: $gap;
+}
+
+.left-gap {
+    margin-left: $gap;
+}
+
+.right-gap {
+    margin-right: $gap;
+}
+
+.no-top-gap {
+    margin-top: 0;
+}
+
+.no-bottom-gap {
+    margin-bottom: 0;
+}
+
+.no-left-gap {
+    margin-left: 0;
+}
+
+.no-right-gap {
+    margin-right: 0;
 }
 
 //FLEX
@@ -52,6 +80,10 @@ canvas.sketch {
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.02), 0 1px 5px 0 rgba(0, 0, 0, 0), 0 3px 1px -2px rgba(0, 0, 0, 0.08);
 }
 
+.beer-nav a {
+    color: #000;
+}
+
 //FONTS
 .beer-font {
     font-weight: 900;
@@ -66,9 +98,37 @@ canvas.sketch {
         text-transform: uppercase;
         margin-left: 10px;
     }
+    &.beer-font--description {
+        text-transform: uppercase;
+        font-size: 1em;
+        letter-spacing: -1px;
+        color: rgba(0, 0, 0, .4);
+    }
 }
 
 //BOX 1
 .beer-box-1 {
     min-height: 600px;
+}
+
+//BOX 2
+.beer-box-2 {
+    background-color: #fff;
+}
+
+//DARTH
+.beer-darth {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+//BTN
+.beer-btn {
+    background-color: $bg-beer-js;
+    color: #000;
+    &:hover,
+    &:focus {
+        background-color: darken($bg-beer-js, 10%);
+    }
 }
