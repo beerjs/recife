@@ -21,6 +21,10 @@ canvas.sketch {
     }
 }
 
+.bg-white {
+    background-color: #fff;
+}
+
 //GAPS
 $gap: 120px;
 .top-gap {
@@ -76,12 +80,15 @@ $gap: 120px;
 
 //HEADER
 .beer-nav {
-    background-color: rgba(0, 0, 0, .05);
+    background-color: rgba(0, 0, 0, .02);
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.02), 0 1px 5px 0 rgba(0, 0, 0, 0), 0 3px 1px -2px rgba(0, 0, 0, 0.08);
-}
-
-.beer-nav a {
-    color: #000;
+    transition: background-color .2s linear;
+    &.beer-nav--bg-white {
+        background-color: #fff;
+    }
+    a {
+        color: #000;
+    }
 }
 
 //FONTS
