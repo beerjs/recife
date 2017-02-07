@@ -29,8 +29,8 @@ Acesse nosso código de conduta clicando [aqui](https://github.com/beerjs/recife
 
 ## Organizadores
 
-| Organizer/Admin | Organizer/Admin | Organizer/Admin | Organizer | Organizer |
-|:-:|:-:|:-:|:-:|:-:|
+| Organizer/Admin | Organizer/Admin | Organizer/Admin | Organizer | Organizer | Organizer |
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais) | [![Danilo Novelino](https://avatars2.githubusercontent.com/u/17599523?s=70)](https://github.com/DaniloNovelino ) | [![Paulo Amorim](https://avatars3.githubusercontent.com/u/7271917?s=70)](https://github.com/paulorec) | [![Alex Pessoa](https://avatars3.githubusercontent.com/u/1766028?s=70)](https://github.com/alexpessoajr)
 | [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) | [Danilo Novelino](https://github.com/DaniloNovelino) | [Paulo Amorim](https://github.com/paulorec) | [Alex Pessoa](https://github.com/alexpessoajr) |
 
