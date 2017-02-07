@@ -19,7 +19,29 @@
 
 <body ng-controller="mainCtrl">
 
-    <header ng-include="'tmpls/header.html'"></header>
+    <!--<header ng-include="'tmpls/header.html'"></header>-->
+    <header>
+        <div class="navbar-fixed">
+            <nav class="beer-nav primary-layer" ng-class="{'beer-nav--bg-white' : navbarToggleColor}">
+                <div class="container">
+                    <div class="nav-wrapper">
+                        <a href="#!">BeerJS <small>RECIFE</small></a>
+                        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                        <ul class="side-nav" id="mobile-demo">
+                            <li><a target="_blank" href="https://github.com/beerjs/recife"><span class="iconfont icon-github"></span> github</a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/beerjsrecife/"><span class="iconfont icon-facebook"></span> facebook</a></li>
+                            <li><a target="_blank" href="https://beerjs-slack-invite.herokuapp.com/"><span class="iconfont icon-slack"></span> slack</a></li>
+                        </ul>
+                        <ul class="right hide-on-med-and-down">
+                            <li><a target="_blank" href="https://github.com/beerjs/recife"><span class="iconfont icon-github"></span> github</a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/beerjsrecife/"><span class="iconfont icon-facebook"></span> facebook</a></li>
+                            <li><a target="_blank" href="https://beerjs-slack-invite.herokuapp.com/"><span class="iconfont icon-slack"></span> slack</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
 
     <main>
         <div ng-include="'tmpls/box-1.html'"></div>
@@ -41,6 +63,12 @@
     <script type="text/javascript" src="js/bubbles.js"></script>
     <!--Addthis-->
     <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-500ef8864eff892c"></script>
+    <!--Initalize Components Materializecss-->
+    <script>
+        $(document).ready(function() {
+            $(".button-collapse").sideNav();
+        });
+    </script>
     <!--Google Analytics-->
     <script>
         (function(i, s, o, g, r, a, m) {

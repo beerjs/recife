@@ -139,3 +139,8 @@ $gap: 120px;
         background-color: darken($bg-beer-js, 10%);
     }
 }
+
+//CUSTOM MATERIALIZECSS
+#sidenav-overlay {
+    z-index: auto;
+}
