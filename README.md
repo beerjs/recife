@@ -31,7 +31,7 @@ Acesse nosso código de conduta clicando [aqui](https://github.com/beerjs/recife
 
 | Organizer | Organizer | Organizer |
 |:-:|:-:|:-:|
-| [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais)
-| [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) |
+| [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais) | [![Danilo Novelino](https://avatars2.githubusercontent.com/u/17599523?s=70)](https://github.com/DaniloNovelino)
+| [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) | [Danilo Novelino](https://github.com/DaniloNovelino) |
 
 <i>Nota: beer.js é sobre a criação de espaços sociais para fortalecer as comunidades de software. Não há necessidade de beber para participar.</i>
