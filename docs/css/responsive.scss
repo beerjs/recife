@@ -1,0 +1,62 @@
+@media screen and (max-width: 992px) {
+    .beer-nav {
+        background-color: #fff;
+    }
+    .beer-box-1 {
+        position: relative;
+        z-index: 1;
+    }
+    .beer-darth {
+        opacity: .2;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .beer-box-1 {
+        min-height: 300px;
+    }
+    .beer-box-2 {
+        .flex {
+            flex-wrap: wrap;
+            width: 100%;
+        }
+    }
+    .beer-box-3 {
+        .beer-btn {
+            width: 100%;
+            margin-bottom: 1em;
+        }
+    }
+    .beer-darth {
+        opacity: .1;
+    }
+    .beer-font {
+        &.beer-font--large {
+            font-size: 3em;
+            letter-spacing: -5px;
+        }
+        &.beer-font--small {
+            font-size: 1.5em;
+            letter-spacing: -2px;
+        }
+        &.beer-font--description {
+            font-size: .8em;
+            text-align: center;
+            margin: 0 1em;
+        }
+    }
+    //GAPS
+    $gap: 60px;
+    .top-gap {
+        margin-top: $gap;
+    }
+    .bottom-gap {
+        margin-bottom: $gap;
+    }
+    .left-gap {
+        margin-left: $gap;
+    }
+    .right-gap {
+        margin-right: $gap;
+    }
+}

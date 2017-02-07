@@ -1,1 +1,13 @@
+# Folders #
+######################
+node_modules
+
+# Sublime Workspace file #
+######################
+.sublime-Workspace
+
+# VScode Workspace file #
+######################
+.vscode
+
 .DS_Store

@@ -1,8 +1,91 @@
-<html>
-    <head>
-    </head>
+<!DOCTYPE html>
+<html lang="pt" ng-app="app">
 
-    <body>
-        <a href="https://github.com/beerjs/recife"> BeerJS Recife on Git! </a>
-    </body>
+<head>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="css/materialize.min.css" media="screen,projection" />
+    <!--Import Fontello Fonts-->
+    <link type="text/css" rel="stylesheet" href="fonts/fontello/css/fontello.css" media="screen" />
+    <link type="text/css" rel="stylesheet" href="css/style.min.css" media="screen" />
+    <link type="text/css" rel="stylesheet" href="css/responsive.min.css" media="screen" />
+
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>BeerJS Recife</title>
+</head>
+
+<body ng-controller="mainCtrl">
+
+    <!--<header ng-include="'tmpls/header.html'"></header>-->
+    <header>
+        <div class="navbar-fixed">
+            <nav class="beer-nav primary-layer" ng-class="{'beer-nav--bg-white' : navbarToggleColor}">
+                <div class="container">
+                    <div class="nav-wrapper">
+                        <a href="#!">BeerJS <small>RECIFE</small></a>
+                        <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
+                        <ul class="side-nav" id="mobile-demo">
+                            <li><a target="_blank" href="https://github.com/beerjs/recife"><span class="iconfont icon-github"></span> github</a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/beerjsrecife/"><span class="iconfont icon-facebook"></span> facebook</a></li>
+                            <li><a target="_blank" href="https://beerjs-slack-invite.herokuapp.com/"><span class="iconfont icon-slack"></span> slack</a></li>
+                        </ul>
+                        <ul class="right hide-on-med-and-down">
+                            <li><a target="_blank" href="https://github.com/beerjs/recife"><span class="iconfont icon-github"></span> github</a></li>
+                            <li><a target="_blank" href="https://www.facebook.com/beerjsrecife/"><span class="iconfont icon-facebook"></span> facebook</a></li>
+                            <li><a target="_blank" href="https://beerjs-slack-invite.herokuapp.com/"><span class="iconfont icon-slack"></span> slack</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div ng-include="'tmpls/box-1.html'"></div>
+        <div ng-include="'tmpls/box-2.html'"></div>
+        <div ng-include="'tmpls/box-3.html'"></div>
+    </main>
+
+    <div ng-include="'tmpls/footer.html'"></div>
+
+    <!--Angular jS-->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
+    <script type="text/javascript" src="js/angularjs/app.js"></script>
+    <script type="text/javascript" src="js/angularjs/controller.main.js"></script>
+    <!--Import jQuery before materialize.js-->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <!--SketchJS Bubbles-->
+    <script type="text/javascript" src="https://rawgithub.com/soulwire/sketch.js/master/js/sketch.min.js"></script>
+    <script type="text/javascript" src="js/bubbles.js"></script>
+    <!--Addthis-->
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-500ef8864eff892c"></script>
+    <!--Initalize Components Materializecss-->
+    <script>
+        $(document).ready(function() {
+            $(".button-collapse").sideNav();
+        });
+    </script>
+    <!--Google Analytics-->
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-91434087-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</body>
+
 </html>
