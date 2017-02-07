@@ -13,6 +13,16 @@ canvas.sketch {
     width: 100%;
 }
 
+.love {
+    color: #fff;
+    display: inline-block;
+    font-size: 1.4em;
+    position: relative;
+    top: .2em;
+    transform: scale(.95);
+    animation: love .5s infinite linear alternate-reverse;
+}
+
 .primary-layer {
     z-index: 1;
     position: relative;
