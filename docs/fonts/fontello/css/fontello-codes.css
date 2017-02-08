@@ -5,3 +5,6 @@
 .icon-emo-thumbsup:before { content: '\e804'; } /* '' */
 .icon-emo-beer:before { content: '\e80b'; } /* '' */
 .icon-location:before { content: '\f031'; } /* '' */
+.icon-slack:before { content: '\f198'; } /* '' */
+.icon-github:before { content: '\f300'; } /* '' */
+.icon-facebook:before { content: '\f30c'; } /* '' */
