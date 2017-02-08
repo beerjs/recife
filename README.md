@@ -17,7 +17,7 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 | A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
 
 ## Stickers
-Em breve disponibilizaremos stickers para download e compras!
+Aguarde, em breve disponibilizaremos stickers para download e compras :)!
 
 ## Redes Sociais
 [![Facebook](/docs/img/icon-facebook.png)](https://www.facebook.com/beerjsrecife/) [![Slack](/docs/img/icon-slack.png)](https://beerjs-slack-invite.herokuapp.com/)
