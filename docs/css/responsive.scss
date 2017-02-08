@@ -1,3 +1,6 @@
+// Responsive
+// ------------
+
 @media screen and (max-width: 992px) {
     .beer-nav {
         background-color: #fff;
@@ -45,8 +48,10 @@
             margin: 0 1em;
         }
     }
-    //GAPS
+
+    // Gaps
     $gap: 60px;
+
     .top-gap {
         margin-top: $gap;
     }

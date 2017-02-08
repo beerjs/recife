@@ -1,9 +1,21 @@
-$bg-beer-js: #F9E034;
+// Variables
+// ----------
+
+$pure-black:            #000;
+$pure-white:            #fff;
+$bg-beer-js:            #F9E034;
+$bg-beer-js-shadow:     #f3bb20;
+$bg-beer-js-header:     linear-gradient(to bottom, $bg-beer-js, $bg-beer-js-shadow);
+
+// Wrappers
+// ----------
 body {
-    background-color: $bg-beer-js;
+    background: $bg-beer-js;
 }
 
-//Canvas Buubles
+// Canvas Bubbles
+// ---------------
+
 canvas.sketch {
     display: block;
     position: absolute;
@@ -14,13 +26,13 @@ canvas.sketch {
 }
 
 .love {
-    color: #fff;
+    color: $pure-white;
     display: inline-block;
     font-size: 1.4em;
     position: relative;
     top: .2em;
     transform: scale(.95);
-    animation: love .5s infinite linear alternate-reverse;
+    animation: simplePulse 1.1s infinite ease-in-out;
 }
 
 .primary-layer {
@@ -32,11 +44,14 @@ canvas.sketch {
 }
 
 .bg-white {
-    background-color: #fff;
+    background-color: $pure-white;
 }
 
-//GAPS
+// Gaps
+// ----------
+
 $gap: 120px;
+
 .top-gap {
     margin-top: $gap;
 }
@@ -69,7 +84,9 @@ $gap: 120px;
     margin-right: 0;
 }
 
-//FLEX
+// Flex Grid
+// ----------
+
 .flex {
     display: flex;
     &.flex--align-center {
@@ -88,23 +105,27 @@ $gap: 120px;
     }
 }
 
-//HEADER
+// Header
+// ----------
+
 .beer-nav {
     background-color: rgba(0, 0, 0, .02);
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.02), 0 1px 5px 0 rgba(0, 0, 0, 0), 0 3px 1px -2px rgba(0, 0, 0, 0.08);
     transition: background-color .2s linear;
     &.beer-nav--bg-white {
-        background-color: #fff;
+        background-color: $pure-white;
     }
     a {
-        color: #000;
+        color: $pure-black;
     }
 }
 
-//FONTS
+// Typography
+// ----------
+
 .beer-font {
     font-weight: 900;
-    color: #000;
+    color: $pure-black;
     &.beer-font--large {
         font-size: 8em;
         letter-spacing: -10px;
@@ -123,34 +144,89 @@ $gap: 120px;
     }
 }
 
-//BOX 1
+// Emoji beer gap adjust
+.icon-emo-beer {
+    margin: 0 17px 0 4px;
+}    
+
+// Titles
+.beer-box--title {
+    color: $pure-black;
+}
+
+// Links
+.beer-link {
+    color: $bg-beer-js-shadow;
+    border-bottom: 2px dashed $bg-beer-js-shadow;
+    padding: 0 4px;
+    border-radius: 2px;
+    transition: all .2s ease-in;
+
+    &:hover {
+        color: $pure-black;
+        border-color: $bg-beer-js;
+        background: $bg-beer-js;
+    }
+}
+
+// Templates
+// ----------
+
+// Box 1
 .beer-box-1 {
+    background: $bg-beer-js-header;
     min-height: 600px;
 }
 
-//BOX 2
+// Box 2
 .beer-box-2 {
-    background-color: #fff;
+    background-color: $pure-white;
 }
 
-//DARTH
+// Darth
 .beer-darth {
     position: absolute;
     right: 0;
     bottom: 0;
 }
 
-//BTN
+// Buttons
+// ----------
+
+// Btn
 .beer-btn {
     background-color: $bg-beer-js;
-    color: #000;
+    color: $pure-black;
+
     &:hover,
     &:focus {
-        background-color: darken($bg-beer-js, 10%);
+        background-color: $bg-beer-js-shadow;
     }
 }
 
-//CUSTOM MATERIALIZECSS
+// Custom Materialize CSS
+// --------------
 #sidenav-overlay {
     z-index: auto;
+}
+
+html {
+    color: lighten($pure-black, 30%);
+}
+
+// Animations
+// ------------
+@keyframes simplePulse {  
+    0% {
+        opacity: .4;
+    }
+
+    50% {
+        transform: scale(1.1);
+    }
+
+    100% {
+        opacity: .98;
+
+    }
 }
