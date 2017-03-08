@@ -14,7 +14,7 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 
 | Data e Horário | Local |  |
 |:-:|:-:|:-:|
-| A Definir | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+| 16/03/2017 19:00 | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
 
 ## Stickers
 Aguarde, em breve disponibilizaremos stickers para download e compras! :)
