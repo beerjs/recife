@@ -14,7 +14,12 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 
 | Data e Horário | Local |  |
 |:-:|:-:|:-:|
-| 16/03/2017 19:00 | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+| TBD | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+
+## Eventos Passados
+| Data e Local | Fotos |
+|:-:|:-:|
+| 16/03/2017 em [Apolo Beer Café](https://www.facebook.com/apolobeercafe) | <img src="docs/img/events/beerjsrecife1.jpeg" alt="BeerJS" style="width: 300px;"/> <img src="docs/img/events/beerjsrecife2.JPG" alt="BeerJS" style="height: 225px;"/>
 
 ## Stickers
 Aguarde, em breve disponibilizaremos stickers para download e compras! :)
