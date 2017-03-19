@@ -19,7 +19,7 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 ## Eventos Passados
 | Data e Local | Fotos |
 |:-:|:-:|
-| 16/03/2017 em [Apolo Beer Café](https://www.facebook.com/apolobeercafe) | <img src="docs/img/events/beerjsrecife1.jpeg" alt="BeerJS" style="width: 300px;"/> <img src="docs/img/events/beerjsrecife2.JPG" alt="BeerJS" style="height: 225px;"/>
+| 16/03/2017 em [Apolo Beer Café](https://www.facebook.com/apolobeercafe) | <img src="docs/img/events/beerjsrecife1.jpeg" alt="BeerJS" style="width: 100px;"/> <img src="docs/img/events/beerjsrecife2.JPG" alt="BeerJS" style="height: 75px;"/>
 
 ## Stickers
 Aguarde, em breve disponibilizaremos stickers para download e compras! :)
