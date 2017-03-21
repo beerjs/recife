@@ -6,7 +6,7 @@
     /** @ngInject */
     function ControllerCtrl($scope, $window) {
 
-        $scope.navbarToggleColor
+        $scope.navbarToggleColor;
 
         angular.element($window).bind("scroll", function() {
             if (this.pageYOffset >= 600) {

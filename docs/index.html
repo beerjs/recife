@@ -2,7 +2,7 @@
 <html lang="pt" ng-app="app">
 
 <head>
-    <link rel="icon" type="image/ico" href="favicon.ico"/>
+    <link rel="icon" type="image/ico" href="favicon.ico" />
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--Import materialize.css-->
@@ -56,6 +56,7 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
     <script type="text/javascript" src="js/angularjs/app.js"></script>
     <script type="text/javascript" src="js/angularjs/controller.main.js"></script>
+    <script type="text/javascript" src="js/angularjs/directives.js"></script>
     <!--Import jQuery before materialize.js-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
     <script type="text/javascript" src="js/materialize.min.js"></script>
@@ -68,6 +69,7 @@
     <script>
         $(document).ready(function() {
             $(".button-collapse").sideNav();
+            $('.beer-gallery__img').materialbox();
         });
     </script>
     <!--Google Analytics-->
