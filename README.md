@@ -14,7 +14,7 @@ A proposta da nossa comunidade é reunir desenvolvedores que compartilhem as mes
 
 | Data e Horário | Local |  |
 |:-:|:-:|:-:|
-| TBD | [Apolo Beer Café](https://www.facebook.com/apolobeercafe) - Rua do Apolo 164 - Recife Antigo | [![Apolo Beer Café](/docs/img/icon-apolo.png)](https://www.facebook.com/apolobeercafe/)
+| TBD | [Após o próximo encontro do Femug PE](https://www.meetup.com/pt-BR/FEMUGPE-Recife/) - TBD | [![Femug PE](https://geeknightrecife.github.io/img/organizers/femug-pe.png)](https://www.meetup.com/pt-BR/FEMUGPE-Recife/)
 
 ## Eventos Passados
 | Data e Local | Fotos |
@@ -36,8 +36,8 @@ Acesse nosso código de conduta clicando [aqui](https://github.com/beerjs/recife
 
 | Organizer/Admin | Organizer/Admin | Organizer/Admin | Organizer | Organizer | Organizer |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais) | [![Danilo Novelino](https://avatars2.githubusercontent.com/u/17599523?s=70)](https://github.com/DaniloNovelino ) | [![Paulo Amorim](https://avatars3.githubusercontent.com/u/7271917?s=70)](https://github.com/paulorec) | [![Alex Pessoa](https://avatars3.githubusercontent.com/u/1766028?s=70)](https://github.com/alexpessoajr)
-| [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) | [Danilo Novelino](https://github.com/DaniloNovelino) | [Paulo Amorim](https://github.com/paulorec) | [Alex Pessoa](https://github.com/alexpessoajr) |
+| [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais) | [![Clóvis Neto](https://avatars1.githubusercontent.com/u/4555665?s=70)](https://github.com/clovisdasilvaneto) |
+| [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) | [Clóvis Neto](https://github.com/clovisdasilvaneto) |
 
 <i>Sinta-se a vontade para adicionar sua foto :) </i>
 
