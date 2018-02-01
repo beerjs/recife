@@ -34,7 +34,7 @@ Acesse nosso código de conduta clicando [aqui](https://github.com/beerjs/recife
 
 ## Organizadores
 
-| Organizer/Admin | Organizer/Admin | Organizer/Admin | Organizer | Organizer | Organizer |
+| Organizer/Admin | Organizer/Admin | Organizer/Admin | Organizer |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | [![Victor Laerte](https://avatars0.githubusercontent.com/u/7623098?s=70)](https://github.com/victorlaerte) | [![Adriano Interaminense](https://avatars2.githubusercontent.com/u/12699849?s=70)](https://github.com/interaminense) | [![Jordana Morais](https://avatars1.githubusercontent.com/u/14336252?s=70)](https://github.com/jordanamorais) | [![Clóvis Neto](https://avatars1.githubusercontent.com/u/4555665?s=70)](https://github.com/clovisdasilvaneto) |
 | [Victor Laerte](http://www.victorlaerte.com) | [Adriano Interaminse](https://github.com/interaminense) | [Jordana Morais](https://github.com/jordanamorais) | [Clóvis Neto](https://github.com/clovisdasilvaneto) |
